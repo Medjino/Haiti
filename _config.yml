@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Citadelle Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: L'ISPAN a été créé par décret le 29 mars 1979. C'est un organisme technique déconcentré sous tutelle du Ministre de la Culture.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "L'ISPAN a exécuté, depuis sa fondation, de nombreux projets de restauration et de mise en valeur d'éléments du patrimoine national. On peut citer celui de la mise hors d'eau de la Citadelle Henry et l'assainissement du site et Palais Sans-Souci."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: metadata
 
 ##########
 # Site/Organization Branding 
